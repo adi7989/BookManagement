@@ -2,8 +2,9 @@
 
 A full-stack application for managing a collection of books, built with Node.js, Express, and vanilla JavaScript.
 
-Screenshot (28).png
 *Screenshot of the Book Management System interface*
+
+![alt text](<Screenshot (28).png>)
 
 ## Features
 
