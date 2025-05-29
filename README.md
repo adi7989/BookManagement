@@ -2,7 +2,7 @@
 
 A full-stack application for managing a collection of books, built with Node.js, Express, and vanilla JavaScript.
 
-![Book Management System Screenshot](screenshot.png)
+Screenshot (28).png
 *Screenshot of the Book Management System interface*
 
 ## Features
@@ -118,5 +118,3 @@ GET /books?page=1&limit=5&search=fiction
    - PUT http://localhost:3000/books/1 (with JSON body)
    - DELETE http://localhost:3000/books/1
 
-## Screenshot
-![alt text](<Screenshot (28).png>)
